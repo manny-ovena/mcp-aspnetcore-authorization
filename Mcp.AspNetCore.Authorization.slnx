@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/AuthorizationSample/AuthorizationSample.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Mcp.AspNetCore.Authorization/Mcp.AspNetCore.Authorization.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AuthorizationSample.Tests/AuthorizationSample.Tests.csproj" />
+    <Project Path="tests/Mcp.AspNetCore.Authorization.Tests/Mcp.AspNetCore.Authorization.Tests.csproj" />
+  </Folder>
+</Solution>
